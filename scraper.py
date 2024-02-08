@@ -1,4 +1,3 @@
-import pyautogui
 import easyocr
 from PIL import ImageGrab
 import numpy as np
